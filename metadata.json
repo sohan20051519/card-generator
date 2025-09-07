@@ -1,0 +1,5 @@
+{
+  "name": "Safe Dummy Credit Card and Debit Card Number Generator",
+  "description": "A secure, client-side tool for generating dummy credit card numbers for UI testing, demos, and educational purposes. It does not produce real or valid credit card numbers.",
+  "requestFramePermissions": []
+}
